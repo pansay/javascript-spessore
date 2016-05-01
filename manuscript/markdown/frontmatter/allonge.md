@@ -13,7 +13,7 @@
 [js]: https://leanpub.com/javascript-spessore
 [ja]: https://leanpub.com/javascriptallongesix
 
-Even if you know the material, you may want to read JavaScript Allongé to familiarize yourself its approach to functional combinators. You can [read it for free online][read].
+Even if you know the material, you may want to read JavaScript Allongé to familiarize yourself with its approach to functional combinators. You can [read it for free online][read].
 
 [read]: https://leanpub.com/javascriptallongesix/read
 
