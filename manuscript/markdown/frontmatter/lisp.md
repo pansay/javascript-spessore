@@ -17,7 +17,7 @@ Implementing a language feature teaches you a tremendous amount about how the fe
 
 ### j(oop)s
 
-In this book, we are going to implement saveral different kinds of object-oriented programming language semantics, in JavaScript. We will implement some object semantics, some metaobjects, and some method protocols.
+In this book, we are going to implement several different kinds of object-oriented programming language semantics, in JavaScript. We will implement some object semantics, some metaobjects, and some method protocols.
 
 We'll see how to use JavaScript's basic building blocks to implement things like private state, delegation, protected methods, and more.
 
